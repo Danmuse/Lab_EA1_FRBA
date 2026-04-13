@@ -28,7 +28,7 @@ The **Single-stage amplifiers** project involves the design, simulation, and exp
 </details>
 
 - [ ] [Hardware installations and cabinet design.](https://github.com/Danmuse/Lab_EA1_FRBA/issues/2) `0 MH`
-- [ ] [Development board (Schematic and PCB).](https://github.com/Danmuse/Lab_EA1_FRBA/issues/3) `0 MH`
+- [x] [Development board (Schematic and PCB).](https://github.com/Danmuse/Lab_EA1_FRBA/issues/3) `16 MH`
 - [ ] [Circuit simulations with LTSpice.](https://github.com/Danmuse/Lab_EA1_FRBA/issues/4) `0 MH`
 
 ### 📚️ __Documentation & Doxygen__
